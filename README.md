@@ -16,5 +16,7 @@ DAFTAR ISI
 
 Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh dosen untuk membuat Aplikasi Biodata Python (Seperti Gambar dibawah ini) <br>
 
+![Tugas](Gambar/upik.png)
+
 
 
