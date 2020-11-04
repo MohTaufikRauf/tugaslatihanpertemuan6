@@ -67,3 +67,4 @@ print("Nama saya adalah...")
 print(1234567)
 ```
 (Seperti gambar dibawah ini)<br> 
+![Output](Gambar/upik2.PNG)
