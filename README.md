@@ -118,7 +118,7 @@ statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan
 , ) atau plus ( + )<br>
 2. sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 Hasil dari output tersebut seperti berikut :<br>
-![Output Salam](Gambar/upik5.PNG)
+
 
 ``` python
 
@@ -132,3 +132,4 @@ statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan
 , ) atau plus ( + )<br>
 2. sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 Hasil dari output tersebut seperti berikut :<br>
+![Output Salam](Gambar/upik5.PNG)
