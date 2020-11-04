@@ -308,3 +308,8 @@ print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b))
 print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 
 ```
+![hasil](Gambar/upik12.PNG)
+<br>
+
+### -----------THANK YOU-----------<br> 
+
