@@ -216,3 +216,4 @@ print(w,x,y,z,sep="-----")
 ```
 
 hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
+![Output Separator](Gambar/upik7.PNG)
