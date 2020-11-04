@@ -217,3 +217,18 @@ print(w,x,y,z,sep="-----")
 
 hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
 ![Output Separator](Gambar/upik7.PNG)
+
+
+
+<br>
+<br>
+<br>
+
+## Pertemuan 6 - Lab 1-2
+
+* String Format<br>
+String formatting atau pemformatan string memungkinan kita menyuntikkan item kedalam string dari pada kita mencoba 
+menggabungkan string menggunakan koma atau string concatenation.<br>
+
+Penggunaan source code yang di berikan oleh dosen seperti berikut :
+![Lab 1-2](Gambar/upik8.PNG)
