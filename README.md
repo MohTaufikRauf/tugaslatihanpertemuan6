@@ -68,3 +68,15 @@ print(1234567)
 ```
 (Seperti gambar dibawah ini)<br> 
 ![Output](Gambar/upik2.PNG)
+* Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax dibawah ini :
+
+ ```python
+
+fullname=input()
+``` <br>
+Keterangan : <br> 
+>Variable adalah sebuah wadah penyimpanan data pada program yang akan akan digunakan selama program itu berjalan. yang 
+berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
+>Fungsi **input()** adalah untuk memasukan nilai dari layar console di command prompt, lalu kemudian mengembalikan nilai 
+saat kita menekan tombol enter *(newline)*<br> 
+ *(newline)*<br>
