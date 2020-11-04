@@ -132,4 +132,53 @@ statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan
 , ) atau plus ( + )<br>
 2. sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 Hasil dari output tersebut seperti berikut :<br>
-![Output Salam](Gambar/upik5.PNG)
+![All Output](Gambar/upik5.PNG)
+
+<br>
+---
+<br>
+
+## Pertemuan 6 - Lab 1
+
+Pada halaman ini (Tugas Pertemuan 6 - Lab 1) saya diberikan tugas oleh Dosen yaitu mempelajari operator aritmatika 
+menggunakan bahasa Pemrograman pyhton. Berikut source code yang di berikan oleh dosen :
+``` python
+#penggunaan end
+print('A', end='')
+print('B', end='')
+print('C', end='')
+print()
+print('X')
+print('Y')
+print('z')
+
+#penggunaan separator
+w, x, y, z = 10, 15, 20, 25
+print(w, x, y, z)
+print(w, x, y, z, sep=',')
+print(w, x, y, z, sep='')
+print(w, x, y, z, sep=':')
+print(w, x, y, z, sep='.....')
+```
+Oke, kali ini saya akan menjelaskan tentang materi yang di berikan oleh Dosen.<br>
+
+*Penggunaan END
+Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris. secara default penggunaan end adalah 
+untuk ganti baris.  
+``` python
+print('A', end='')
+print('B', end='')
+print('C', end='')
+```
+> Penggunaan print () digunakan untuk mencetak output, seperti syntax dibawah ini :
+
+``` python
+print()
+```
+>Syntax dibawah ini digunakan untuk menampilkan output berupa string
+``` python
+print('X')
+print('Y')
+print('z')
+```
+Hasil dari source code tersebut seperti gambar dibawah ini :<br>
