@@ -268,4 +268,5 @@ Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, 
 menampilkan Operasi Aritmatika Pangkat.<br> 
 Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )<br>
  Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10, dengan output  sebagai berikut : <br>
- 
+  ![Operasi Aritmatika Pangkat](Gambar/upik9.PNG)
+  
