@@ -1,9 +1,9 @@
 
-print("==============================") <br> 
-print("= NAMA    : MOH. TAUFIK RAUF  ") <br>
-print("= NIM     : 312010151         ") <br>
-print("= KELAS   : TI.20 A.1         ") <br>
-print("==============================") <br>
+print("==============================")
+print("= NAMA    : MOH. TAUFIK RAUF  ")
+print("= NIM     : 312010151         ")
+print("= KELAS   : TI.20 A.1         ")
+print("==============================")
 
 print("Please enter your full name : MOH. TAUFIK RAUF// ")
 fullname=input()
