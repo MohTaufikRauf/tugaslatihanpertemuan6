@@ -231,3 +231,4 @@ String formatting atau pemformatan string memungkinan kita menyuntikkan item ked
 menggabungkan string menggunakan koma atau string concatenation.<br>
 
 Penggunaan source code yang di berikan oleh dosen seperti berikut :
+![Lab 1-2](Gambar/upik8.PNG)
