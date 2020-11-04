@@ -80,3 +80,28 @@ berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
 >Fungsi **input()** adalah untuk memasukan nilai dari layar console di command prompt, lalu kemudian mengembalikan nilai 
 saat kita menekan tombol enter *(newline)*<br> 
  *(newline)*<br>
+
+[input](Gambar1/printnama.PNG)<br>
+pada gambar di atas, hasil dari inputan tersebut berwarna *hijau*<br><br>
+* Untuk memasukan perintah lain seperti *Nikname, NPM, Place Of Birth, Date Of Birth, Year Of Birth, Phone Number, and 
+Addres* mengikuti perintah sama seperti memasukan *fullname*<br>
+
+* Untuk menghitung rumus saya menggunakan variable *DOB* yaitu 2020 (Tahun sekarang) dikurangin dengan Year of Birt, pada 
+source code berikut :<br>
+``` python
+dob=2020-year
+```
+<br> Pada syntax/source diatas, saya menggunakan variable (dob) dimana untuk menghitung umur (variable **age** pada 
+output), yaitu dengan rumus pada variable *dob=2020-year*
+<br>
+
+* langkah kali ini saya akan menampilkan output yang diminta oleh dosen.<br>
+output pertama yang diminta Dosen adalah menampilkan salam, yaitu dengan mengetikkan syntax/source code berikut :
+``` python
+print("\n\n Assalamu'alaikum. ")
+```
+ Keterangan :
+1. Fungsi **\n** pada source code di atas adalah untuk memberi baris baru / enter / *(newline)*
+2. Fungsi print() seperti dijelaskan pada point **Output** diatas
+Hasil dari source code diatas adalah seperti gambar dibawah ini :<br>
+
