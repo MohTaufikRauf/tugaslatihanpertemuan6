@@ -232,3 +232,40 @@ menggabungkan string menggunakan koma atau string concatenation.<br>
 
 Penggunaan source code yang di berikan oleh dosen seperti berikut :
 ![Lab 1-2](Gambar/upik8.PNG)
+
+``` python
+#string format 1
+print(0, 10**0)
+print(1, 10**1)
+print(2, 10**2)
+print(3, 10**3)
+print(4, 10**4)
+print(5, 10**5)
+print(6, 10**5)
+print(8, 10**8)
+print(9, 10**9)
+print(10, 10**10)
+
+#string format 1
+print('{0:>3} {1:>16}'.format(0, 10**0))
+print('{0:>3} {1:>16}'.format(1, 10**1))
+print('{0:>3} {1:>16}'.format(2, 10**2))
+print('{0:>3} {1:>16}'.format(3, 10**3))
+print('{0:>3} {1:>16}'.format(4, 10**4))
+print('{0:>3} {1:>16}'.format(5, 10**5))
+print('{0:>3} {1:>16}'.format(6, 10**6))
+print('{0:>3} {1:>16}'.format(7, 10**7))
+print('{0:>3} {1:>16}'.format(8, 10**8))
+print('{0:>3} {1:>16}'.format(9, 10**9))
+print('{0:>3} {1:>16}'.format(10, 10**10))
+```
+<br>
+Saat ini saya akan membahas satu persatu dari syntax yang telah diberikan oleh Dosen.<br>
+
+1. **String Format 1** <br>
+Pada syntax / source code strring format satu akan menampilkan output berupa 2 outputan.<br>
+Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan untuk sebelah kanan akan 
+menampilkan Operasi Aritmatika Pangkat.<br> 
+Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )<br>
+ Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10, dengan output  sebagai berikut : <br>
+ 
