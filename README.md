@@ -286,3 +286,11 @@ print('{0:8} | {1:9}'.format('Dono',10))
 ```
 Hasil dari source code contoh diatas akan seperti berikut :<br>
 ![Output Alignment Contoh 2](Gambar/upik10.PNG)
+<br><br>
+
+## pertemuan 6 - Lab 2
+* Konversi Nilai Variable <br>
+Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu konversi Nilai Variable<br>
+
+Tugas 
+![Picture Lab 2](Gambar/upik11.png)
