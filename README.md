@@ -182,3 +182,37 @@ print('Y')
 print('z')
 ```
 Hasil dari source code tersebut seperti gambar dibawah ini :<br>
+![Output END](Gambar/upik6.PNG)
+
+* Penggunaan separator
+
+>Pendeklarasian beberapa variable beserta nilainya
+``` python
+w,x,y,z=10,15,20,25
+```
+
+>Menampilkan hasil dari variable tiap-tiap variable
+``` python
+print(w,x,y,z)
+```
+
+>Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah : (koma)
+``` python
+print(w,x,y,z,sep=",")
+```
+>Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah
+``` python
+print(w,x,y,z,sep="")
+```
+
+>Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah : (titik dua)
+``` python
+print(w,x,y,z,sep=":")
+```
+
+>Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah -----
+``` python
+print(w,x,y,z,sep="-----")
+```
+
+hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
